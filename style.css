@@ -6,7 +6,8 @@ body, html {
 
 body {
     background: #fff;
-    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    font-family:"Roboto";
+    font-weight: 500;
     font-size: 14px;
     color: #333;
     line-height: 22px;
@@ -72,14 +73,14 @@ nav {
 
 .title-h1-slide-1 {
     font-size: 45px;
-    font-weight: 400;
+    font-weight: 500;
     color: rgb(97, 96, 96);
 }
 
 .title-h1-slide-2 {
     
     font-size: 40px;
-    font-weight: 400;
+    font-weight: 500;
     color: rgb(97, 96, 96);
 }
 
@@ -89,7 +90,7 @@ nav {
 
 .title-h1-slide-3 {
     font-size: 40px;
-    font-weight: 400;
+    font-weight: 500;
     color: #787a7c;
 }
 
@@ -99,7 +100,7 @@ nav {
 
 .title-h1-slide-4 {
     font-size: 40px;
-    font-weight: 400;
+    font-weight: 500;
     color: rgb(97, 96, 96);
 }
 
@@ -108,14 +109,14 @@ nav {
     margin-top: 80px;
     color: rgb(97, 96, 96);
     padding-top: 10px;
-    font-weight: lighter;
+    font-weight: 500;
 }
 
 .description-title p {
     text-align: justify;
     color:#333;
     line-height: 20px;
-    font-weight: 300;
+    font-weight: 500;
     font-size: 18px;
 }
 
@@ -182,7 +183,7 @@ nav {
     margin-top: 80px;
     color: rgb(97, 96, 96);
     padding-top: 10px;
-    font-weight: lighter;
+    font-weight: 500;
 }
 
 .servicos-content h2{
@@ -190,7 +191,7 @@ nav {
     padding-top: 10px;
     padding-bottom: 10px;
     font-size: medium;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .servicos-content img {
@@ -226,7 +227,7 @@ div#service-area-main {
     margin-top: 30px;
     color: #333;
     padding-top: 10px;
-    font-weight: lighter;
+    font-weight: 500;
     text-shadow: 1px 1px rgb(196, 196, 196);
    
     
@@ -238,7 +239,7 @@ div#service-area-main {
     text-shadow: 1px 1px rgb(196, 196, 196);
     margin-bottom: 20px;
     margin-top: 20px;
-    font-weight: lighter;
+    font-weight: 500;
     font-size: xx-large;
 }
 
@@ -246,7 +247,7 @@ div#service-area-main {
     color:#fff;
     text-shadow: 1px 1px #000;
     font-size: 25px;  
-    font-weight: lighter;
+    font-weight: 500;
 }
 
 #contatos {
@@ -261,7 +262,7 @@ div#service-area-main {
 .label {
     display: inline-block;
     margin-bottom: .5rem;
-    font-weight: lighter;
+    font-weight: l500;
 }
 
 .customize-img img {
@@ -284,13 +285,13 @@ div#service-area-main {
 .contatos-description-title h1 {
     margin-top: 20px;
     color:rgb(97, 96, 96);
-    font-weight: lighter;
+    font-weight: 500;
 }
 
 .contatos-description-title h4 {
     color:rgb(97, 96, 96);
     margin-top: 20px;
-    font-weight: lighter;
+    font-weight: 500;
 }
 
 /* Footer CSS */
@@ -298,14 +299,14 @@ div#service-area-main {
 .unique-color-dark {
     background-color:#333;
     color: #fff;
-    font-weight: lighter;
+    font-weight: 500;
     line-height: 20px;
 }
 
 .mb-0 {
     color:#fff;
     font-size: 17px;
-    font-weight: lighter;
+    font-weight: 500;
 }
 
 .link-ic img {
